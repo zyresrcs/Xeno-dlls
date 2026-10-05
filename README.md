@@ -8,3 +8,6 @@ Verified
 
 Discord Server
 https://discord.gg/cs7Jhuqaxd
+
+Guns.lol
+https://guns.lol/l8z4

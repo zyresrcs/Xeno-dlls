@@ -5,3 +5,6 @@ Xeno Version :
 Xeno-v1.3.60
 
 Verified
+
+Discord Server
+https://discord.gg/cs7Jhuqaxd
